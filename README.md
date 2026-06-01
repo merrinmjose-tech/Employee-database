@@ -15,5 +15,5 @@ Practice INSERT, UPDATE, DELETE operations and NULL handling.
 6. Retrieved final records using SELECT
 
 ## Files Included
-- employee.sql
+- task2.sql
 - output screenshot
